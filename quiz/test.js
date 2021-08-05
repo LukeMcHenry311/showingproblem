@@ -31,42 +31,4 @@ function increment4() {
 
 function blue() {
     console.log(Math.max(i, x, y, z))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// function myFunction() {
-//     var link1="gryffindor.html"
-//     var link2="slytherin.html"
-//     var link3="ravenclaw.html"
-//     var link4="hufflepuff.html"
-//     var house =
-//     document.getElementById("results").value
-
-//     switch (house) {
-//         case "Gryffindor":
-//         window.location=link1
-//         break;
-//         case "Slytherin":
-//         window.location=link2
-//         break;
-//         case "Ravenclaw":
-//         window.location=link3
-//         break;
-//         case "Hufflepuff":
-//         window.location=link4
-//         break;
-//     }
-// }
+}
